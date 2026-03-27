@@ -2,6 +2,8 @@
 
 Code repository for the paper "SegMo: Segment-aligned Text to 3D Human Motion Generation".
 
+![Main Idea](images/paper.png)
+
 
 ## Contents
 

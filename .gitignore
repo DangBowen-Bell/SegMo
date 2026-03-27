@@ -1,0 +1,7 @@
+*.pyc
+
+checkpoints
+glove
+output
+
+run.sh
